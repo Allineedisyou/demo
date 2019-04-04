@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class HelloController {
     /**
-     * 输出hello world
+     * 输出hello world 哈哈
      * @param args
      */
     @RequestMapping("/hello")
